@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_8","characterIndex":0,"characterName":"myactor","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"主角","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"娅朵莉","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
