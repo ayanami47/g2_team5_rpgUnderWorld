@@ -31,9 +31,9 @@ null,
 {"id":29,"expanded":true,"name":"魔王城最外围左侧走廊","order":32,"parentId":27,"scrollX":651,"scrollY":697.8,"quick":false},
 {"id":30,"expanded":false,"name":"魔王城左侧连接处","order":33,"parentId":29,"scrollX":789,"scrollY":481.79999999999995,"quick":false},
 {"id":31,"expanded":true,"name":"魔王城最外围右侧走廊","order":34,"parentId":27,"scrollX":651,"scrollY":961.8,"quick":false},
-{"id":32,"expanded":true,"name":"魔王城右侧连接处","order":35,"parentId":31,"scrollX":845.4,"scrollY":530.4,"quick":false},
+{"id":32,"expanded":true,"name":"魔王城右侧连接处","order":35,"parentId":31,"scrollX":789,"scrollY":491.4,"quick":false},
 {"id":33,"expanded":false,"name":"考验场地01","order":11,"parentId":16,"scrollX":651,"scrollY":481.79999999999995,"quick":false},
 {"id":34,"expanded":true,"name":"考验场地02","order":12,"parentId":16,"scrollX":660.6,"scrollY":481.79999999999995,"quick":false},
-{"id":35,"expanded":false,"name":"考验场地03","order":13,"parentId":16,"scrollX":660.6,"scrollY":481.79999999999995,"quick":false},
+{"id":35,"expanded":false,"name":"考验场地03","order":13,"parentId":16,"scrollX":651,"scrollY":481.79999999999995,"quick":false},
 {"id":36,"expanded":false,"name":"考验场地04","order":14,"parentId":16,"scrollX":660.6,"scrollY":481.79999999999995,"quick":false}
 ]
